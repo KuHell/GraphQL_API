@@ -1,0 +1,27 @@
+{
+  "name": "graphql_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuHell/GraphQL_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuHell/GraphQL_API/issues"
+  },
+  "homepage": "https://github.com/KuHell/GraphQL_API#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
