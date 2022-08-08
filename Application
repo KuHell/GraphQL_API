@@ -1,0 +1,16 @@
+{
+  allFilms{
+    totalCount
+    films{
+      title
+    }
+  }
+  allPeople{
+    people {
+      name
+      hairColor
+      eyeColor
+      birthYear
+    }
+  }
+}
